@@ -22,11 +22,11 @@ $ git clone https://github.com/maxkung101/yes-bot
 
 Run
 ---
-Linux/Unix
+Linux/Unix/MacOS
 ```
 $ python3 yesbot.py
 ```
-PC/Mac
+PC
 ```
 $ python yesbot.py
 ```
